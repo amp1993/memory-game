@@ -1,0 +1,38 @@
+#game div {
+  border: 1px solid rgb(0, 8, 125);
+  width: px;
+  height: 20vw;
+  margin: 10px;
+  display: inline-block;
+  background-color: #3586f1;
+  border-radius: 10px;
+
+
+}
+
+h1{
+  font-family:caprasimo;
+  display: flex;
+  justify-content: center;
+  color: orange;
+  font-size: 50px;
+  -webkit-text-stroke: .3px rgb(140, 95, 47);
+}
+
+body{
+  background-color: #5fd5e2;  
+
+}
+ #resetButton {
+  background-color: orange;
+  font-family:caprasimo;
+  font-size: 15px;
+  color: rgba(155, 45, 12, 0.871);
+  -webkit-text-stroke: .3px rgb(19, 18, 16);
+  border-radius: 10px;
+  padding: 5px;
+  width: 70px;
+  justify-content: center;
+
+ }
+
